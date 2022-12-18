@@ -1,0 +1,9 @@
+-Change Intents to the amount of intents.
+-Put your custom status
+-Put your token in yourtoken
+-Put commands files in the folder commands
+
+
+
+
+//Created by Anne Edalyn//
